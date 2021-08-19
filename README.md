@@ -3,7 +3,7 @@ Bu repo [Kodluyoruz](http://kodluyoruz.org) Front-End Egitiminde olusturdugumuz 
 
 ## Installation
 ```python
-print(git clone https://github.com/CinarGokhan/kodluyoruzilkrepo.git)
+git clone https://github.com/CinarGokhan/kodluyoruzilkrepo.git
 ```
 
 ## Usage
@@ -13,8 +13,8 @@ Projeyi cloneladıktan sonra VS Code programında açınız.
 Linux için:
 
 ```python
-print(cd kodluyoruzilkrepo)
-print(code .)
+cd kodluyoruzilkrepo
+code .
 ```
 
 ## Contributing
